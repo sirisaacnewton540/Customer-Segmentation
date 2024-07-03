@@ -2,7 +2,7 @@
 
 This project performs customer segmentation using the `Online Retail.csv` dataset. The analysis includes data ingestion, exploratory data analysis (EDA), data preprocessing, customer segmentation using clustering algorithms, and visualization. The project uses Python for data analysis and visualization, and the final results are saved for further visualization in Tableau.
 
-## Dataset
+## Dataset (kindly unzip it before use)
 
 The dataset `Online Retail.csv` contains the following columns:
 - `InvoiceNo`: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with 'C', it indicates a cancellation.
